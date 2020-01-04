@@ -1,6 +1,6 @@
 <?php
 
-namespace darrenmerrett\ReactSpark\app\Console\Commands;
+namespace adnansyedimadi\ReactSpark\app\Console\Commands;
 
 use Illuminate\Console\Command;
 
