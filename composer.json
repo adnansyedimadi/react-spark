@@ -3,6 +3,7 @@
     "description": "React Spark",
     "keywords": ["laravel", "spark","react"],
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Adnan Syed",
