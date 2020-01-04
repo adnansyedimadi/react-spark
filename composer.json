@@ -1,11 +1,11 @@
 {
-    "name": "darrenmerrett/react-spark",
+    "name": "adnansyedimadi/react-spark",
     "description": "React Spark",
     "keywords": ["laravel", "spark","react"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Darren Merrett",
+            "name": "Adnan Syed",
             "email": "darren.merrett@gmail.com"
         }
     ],
